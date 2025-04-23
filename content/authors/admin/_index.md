@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 潘宏声
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: HongshengPan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: pan
+last_name: Hongsheng
 
 # Status emoji
 status:
@@ -31,20 +31,20 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: 
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url:
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: 
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: 
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: 
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url:
 
 interests:
   - Artificial Intelligence
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a graduate student specializing in computational geometry, computational conformal geometry, and computational topology, with a strong focus on their applications in various fields such as intelligent manufacturing, reinforcement learning, robotics, computer graphics, and medicine. My research integrates mathematics, computer science, and operations research to solve complex problems in molecular modeling, protein structure prediction, and other interdisciplinary areas. I am passionate about developing geometric algorithms and exploring their potential in both theoretical and practical contexts.
