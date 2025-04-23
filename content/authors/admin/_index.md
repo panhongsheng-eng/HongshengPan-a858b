@@ -277,22 +277,7 @@ skills:
         description: 'Skilled in writing shell scripts for system optimization.'
         percent: 75
         icon: script
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+
 
 languages:
   - name: English
