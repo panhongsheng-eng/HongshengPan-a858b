@@ -11,13 +11,13 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Frontier Interdisciplinary Knowledge
+      text: Applicable to disciplines such as Computer Science, Artificial Intelligence, Data Science, Mechanical Engineering, Intelligent Manufacturing, Aerospace, and more..
       filters:
         folders:
           - project
     design:
       view: article-grid
       fill_image: false
-      columns: 6
+      columns: 3
 ---
