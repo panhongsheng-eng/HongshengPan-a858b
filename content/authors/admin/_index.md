@@ -143,7 +143,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programming Languages
+  - name: Technical Skills
     items:
       - name: Python
         description: ''
@@ -161,6 +161,31 @@ skills:
         description: ''
         percent: 60
         icon: code
+      - name: HTML
+        description: ''
+        percent: 70
+        icon: code
+      - name: Linux
+        description: ''
+        percent: 80
+        icon: terminal
+      - name: Git
+        description: ''
+        percent: 90
+        icon: git
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Singing
+        description: ''
+        percent: 70
+        icon: music
+      - name: Reading
+        description: ''
+        percent: 80
+        icon: book
+
 
 
 languages:
