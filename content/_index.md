@@ -37,8 +37,8 @@ sections:
       text: |-
         <div style="display: flex; justify-content: center; margin-top: 2rem;">
           <iframe src="https://drive.google.com/file/d/1ARIM7kkdanOU6v1nuU7puM5ROEGRQJqt/preview"
-                  width="1000"
-                  height="600"
+                  width="2000"
+                  height="500"
                   style="border: none; border-radius: 12px;">
           </iframe>
         </div>
