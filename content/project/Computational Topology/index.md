@@ -1,7 +1,7 @@
 ---
 title: Computational Topology
 date: 2025-4-23
-external_link: 
+external_link: ""
 tags:
   - Computational Topology
   - Mathematics
