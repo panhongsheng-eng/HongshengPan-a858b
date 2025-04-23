@@ -5,23 +5,5 @@ external_link: https://d2l.ai
 tags:
   - Deep Learning
 summary: >
-  Deep Learning is a subfield of machine learning that focuses on algorithms inspired by the structure and function of the brain, called artificial neural networks. It has revolutionized many areas of artificial 
-  intelligence (AI), including computer vision, natural language processing, speech recognition, recommendation systems, robotics, and more.
-
-  At its core, deep learning involves the use of multi-layered neural networks (often called "deep neural networks") to automatically learn hierarchical representations from large-scale data. Unlike traditional machine 
-  learning methods, deep learning reduces the need for manual feature engineering by learning features directly from raw input.
-
-  Key technologies and architectures in deep learning include:
-
-  Convolutional Neural Networks (CNNs)
-
-  Recurrent Neural Networks (RNNs) and Transformers
-
-  Generative Adversarial Networks (GANs)
-
-  Autoencoders and Variational Autoencoders
-
-  Attention Mechanisms and Large Language Models (LLMs)
-
-  Deep learning continues to drive breakthroughs in AI, enabling systems that match or surpass human-level performance in complex tasks such as image classification, machine translation, and game playing.
+  Deep Learning is a subfield of machine learning that uses multi-layered neural networks to learn representations from large datasets. It eliminates the need for manual feature engineering by automatically discovering patterns in raw data. Deep learning is the foundation of many AI advances in fields such as computer vision, natural language processing, speech recognition, and recommendation systems. Popular architectures include Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers, and Generative Adversarial Networks (GANs). It has enabled AI systems to achieve or surpass human-level performance in numerous complex tasks.
 ---
