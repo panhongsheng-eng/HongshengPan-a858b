@@ -178,7 +178,16 @@ awards:
     awarder: datacamp
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+        I am Hongsheng Pan, a graduate researcher with strong interests in computer vision and computer graphics, particularly in the areas of surface parameterization, geometric modeling, virtual reality, and unified 
+        frameworks for geometric shape analysis, registration, classification, and recognition. My work also focuses on medical imaging and image analysis, including denoising, super-resolution, segmentation, 
+        reconstruction, 2D/3D shape analysis, and end-to-end computer-aided diagnosis. Representative applications include virtual colonoscopy, brain morphology and disease correlation, and 3D facial expression analysis 
+        and recognition.
+
+        In addition, I am actively involved in computer-aided design (CAD), exploring topics such as freeform surface reparameterization, mesh generation, and 3D geometric engine development. My interests also extend to wireless networks, where I work on network routing design, signal processing, and the integration of 3D scene understanding in ROS environments with CAD systems.
+
+        My research is driven by a passion for bridging geometry, computing, and real-world applications, and I strive to create practical solutions grounded in solid theoretical foundations.
+
+
 ---
 
 ## About Me
