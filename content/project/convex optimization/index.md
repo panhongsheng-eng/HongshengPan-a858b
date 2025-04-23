@@ -8,8 +8,8 @@ Fundamentals of convex analysis. Least squares, linear and quadratic programming
 Optimal conditions, dual theory, alternative theorems, and applications. Interior point methods. 
 Applications in signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance.
 ---
-  -Good knowledge of linear algebra and probability
-  - Familiar with basic Python programming
-  - Markdown
+   Good knowledge of linear algebra and probability
+   Familiar with basic Python programming
+   Markdown
 
 <!--more-->
