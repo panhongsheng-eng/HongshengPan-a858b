@@ -1,5 +1,5 @@
 ---
-title: Convex Optimization
+title:Convex Optimization
 date: 2024-10-26
 external_link: https://web.stanford.edu/~boyd/cvxbook/
 tags:
