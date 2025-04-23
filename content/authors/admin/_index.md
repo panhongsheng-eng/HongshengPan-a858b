@@ -149,50 +149,35 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: C
+      - name: Data Science
         description: ''
-        percent: 70
-        icon: code
-      - name: C++
+        percent: 100
+        icon: chart-bar
+      - name: SQL
         description: ''
-        percent: 75
-        icon: code
-      - name: Rust
-        description: ''
-        percent: 60
-        icon: code
-      - name: HTML
-        description: ''
-        percent: 70
-        icon: code
-      - name: Linux
-        description: ''
-        percent: 80
-        icon: terminal
-      - name: Git
-        description: ''
-        percent: 90
-        icon: git
+        percent: 40
+        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Singing
+      - name: Hiking
         description: ''
-        percent: 70
-        icon: music
-      - name: Reading
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
         description: ''
         percent: 80
-        icon: book
-
-
-
+        icon: camera
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
+  - name: Chinese
+    percent: 100
   - name: Portuguese
     percent: 25
 
