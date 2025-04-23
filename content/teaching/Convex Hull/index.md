@@ -11,11 +11,8 @@ image:
   caption: 'Learn about Convex Hull and its applications in Computational Geometry'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+![image](https://github.com/user-attachments/assets/21e6e8a6-331b-4524-afbc-905a17887e90)
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
-
-On this page, you'll find examples of the types of technical content that can be rendered with Hugo Blox.
 
 ## Video
 
