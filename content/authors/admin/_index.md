@@ -191,14 +191,5 @@ awards:
 ---
 
 ## About Me
-
-   I am Hongsheng Pan, a graduate researcher with strong interests in computer vision and computer graphics, particularly in the areas of surface parameterization, geometric modeling, virtual reality, and unified 
-   frameworks for geometric shape analysis, registration, classification, and recognition. My work also focuses on medical imaging and image analysis, including denoising, super-resolution, segmentation, reconstruction, 
-   2D/3D shape analysis, and end-to-end computer-aided diagnosis. Representative applications include virtual colonoscopy, brain morphology and disease correlation, and 3D facial expression analysis and recognition.
-
-   In addition, I am actively involved in computer-aided design (CAD), exploring topics such as freeform surface reparameterization, mesh generation, and 3D geometric engine development. My interests also extend to 
-   wireless networks, where I work on network routing design, signal processing, and the integration of 3D scene understanding in ROS environments with CAD systems.
-
-   My research is driven by a passion for bridging geometry, computing, and real-world applications, and I strive to create practical solutions grounded in solid theoretical foundations.
-
+  I am Hongsheng Pan, a graduate researcher focused on computer vision and graphics, including surface parameterization, geometric modeling, and virtual reality. My research also covers medical imaging tasks such as denoising, segmentation, 3D reconstruction, and diagnostic analysis. I work on CAD topics like freeform surface reparameterization, mesh generation, and 3D geometry engines, as well as wireless network routing and ROS-based 3D scene understanding. I aim to bridge geometry, computation, and real-world applications through practical and theoretically grounded solutions.
 
