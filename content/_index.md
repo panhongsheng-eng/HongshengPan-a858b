@@ -37,8 +37,8 @@ sections:
       text: |-
         <div style="display: flex; justify-content: center; margin-top: 2rem;">
           <iframe src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=k.drawio&transparent=1&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1Gw7tYSpsiV6XMVVXjJWBX4RCgXv776o0%26export%3Ddownload" allowtransparency="true"
-                  width="4000"
-                  height="200"
+                  width="8000"
+                  height="400"
                   style="border: none; border-radius: 12px;">
           </iframe>
         </div>
