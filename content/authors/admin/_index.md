@@ -3,7 +3,7 @@
 title: 潘宏声
 
 # Name pronunciation (optional)
-name_pronunciation: HongshengPan
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: pan
