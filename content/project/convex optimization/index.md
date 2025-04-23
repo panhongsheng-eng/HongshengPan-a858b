@@ -1,15 +1,17 @@
 ---
-title:Convex Optimization
+title: Convex Optimization
 date: 2024-10-26
 external_link: https://web.stanford.edu/~boyd/cvxbook/
 tags:
-  - Focuses on identifying and solving convex optimization problems that arise in applications. Convex sets, functions, and optimization problems. 
-Fundamentals of convex analysis. Least squares, linear and quadratic programming, semidefinite programming, minimax, extreme volume, and other problems. 
-Optimal conditions, dual theory, alternative theorems, and applications. Interior point methods. 
-Applications in signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance.
+  - convex optimization
+  - convex sets
+  - duality
+  - interior point methods
+  - applications in ML, control, finance
+summary: >
+  Focuses on identifying and solving convex optimization problems that arise in applications. Covers convex sets, functions, and optimization problems, fundamentals of convex analysis, least squares, linear and quadratic programming, semidefinite programming, minimax problems, dual theory, and interior point methods. Applications include signal processing, statistics, machine learning, control and mechanical engineering, and finance.
+prerequisites:
+  - Good knowledge of linear algebra and probability
+  - Familiar with basic Python programming
+  - Markdown
 ---
-   Good knowledge of linear algebra and probability
-   Familiar with basic Python programming
-   Markdown
-
-<!--more-->
