@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🧠 My Interactive Research Map'
       subtitle: ''
       text: |-
         <div style="display: flex; justify-content: center; margin-top: 2rem;">
