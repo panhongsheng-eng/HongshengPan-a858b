@@ -1,7 +1,7 @@
 ---
 title: Deep Learning
 date: 2024-10-26
-external_link: [https://web.stanford.edu/~boyd/cvxbook/](https://d2l.ai/)
+external_link: https://d2l.ai
 tags:
   - Deep Learning
 summary: >
