@@ -192,4 +192,13 @@ awards:
 
 ## About Me
 
-I am a graduate student specializing in computational geometry, computational conformal geometry, and computational topology, with a strong focus on their applications in various fields such as intelligent manufacturing, reinforcement learning, robotics, computer graphics, and medicine. My research integrates mathematics, computer science, and operations research to solve complex problems in molecular modeling, protein structure prediction, and other interdisciplinary areas. I am passionate about developing geometric algorithms and exploring their potential in both theoretical and practical contexts.
+   I am Hongsheng Pan, a graduate researcher with strong interests in computer vision and computer graphics, particularly in the areas of surface parameterization, geometric modeling, virtual reality, and unified 
+   frameworks for geometric shape analysis, registration, classification, and recognition. My work also focuses on medical imaging and image analysis, including denoising, super-resolution, segmentation, reconstruction, 
+   2D/3D shape analysis, and end-to-end computer-aided diagnosis. Representative applications include virtual colonoscopy, brain morphology and disease correlation, and 3D facial expression analysis and recognition.
+
+   In addition, I am actively involved in computer-aided design (CAD), exploring topics such as freeform surface reparameterization, mesh generation, and 3D geometric engine development. My interests also extend to 
+   wireless networks, where I work on network routing design, signal processing, and the integration of 3D scene understanding in ROS environments with CAD systems.
+
+   My research is driven by a passion for bridging geometry, computing, and real-world applications, and I strive to create practical solutions grounded in solid theoretical foundations.
+
+
