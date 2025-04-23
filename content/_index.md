@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        <iframe src="https://drive.google.com/file/d/1ARIM7kkdanOU6v1nuU7puM5ROEGRQJqt/view?usp=drive_link" width="100%" height="600px" style="border: none;"></iframe>
+        <iframe src="https://drive.google.com/file/d/1ARIM7kkdanOU6v1nuU7puM5ROEGRQJqt/view?usp=sharing" width="200%" height="200px" style="border: none;"></iframe>
     design:
       columns: '1'
   - block: collection
