@@ -1,7 +1,7 @@
 ---
 title: Computational Topology
 date: 2025-4-23
-external_link: ""
+external_link: https://www.math.colostate.edu/~adams/teaching/UCR2017/
 tags:
   - Computational Topology
   - Mathematics
