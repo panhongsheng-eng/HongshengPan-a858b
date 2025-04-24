@@ -12,9 +12,7 @@ tags:
   - Orthogonal Range Searching
   - Arrangements and Duality
 summary: >
-  Computational Geometry is a branch of computer science and mathematics that focuses on the design and analysis of algorithms for solving geometric problems.
-  It plays a fundamental role in fields such as computer graphics, computer-aided design (CAD), robotics, geographic information systems (GIS), machine learning,
-  and scientific computing.
+  This column delves into the fundamental concepts and wide-ranging applications of computational geometry, covering everything from basic geometric representations to complex algorithms and real-world use cases. From convex hulls and Voronoi diagrams to Delaunay triangulations and the closest pair problem, readers will gain a solid grasp of the cornerstones of computational geometry. The column also explores advanced topics such as polygon intersection, point set covering, range queries, and motion planning. By examining applications in computer graphics, computer vision, geographic information systems, bioinformatics, financial engineering, operations research, machine learning, big data analytics, cloud computing, and the Internet of Things, this column showcases the powerful role of computational geometry in modern technologies.
 ---
 
 ## Introduction
