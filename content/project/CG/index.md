@@ -14,69 +14,69 @@ tags:
 summary: >
  Computational geometry is a fundamental area of computer science focused on the design and analysis of efficient algorithms and data structures for solving geometric problems. It involves the modeling, processing, and optimization of geometric objects such as points, lines, surfaces, and polygons. Widely applied in computer graphics, robotic navigation, spatial data analysis, and scientific computing, it plays a pivotal role in enabling spatial awareness and decision-making in intelligent systems.
 ---
- This column delves into the fundamental concepts and wide-ranging applications of computational geometry, covering everything from basic geometric representations to complex algorithms and real-world use cases. From convex hulls and Voronoi diagrams to Delaunay triangulations and the closest pair problem, readers will gain a solid grasp of the cornerstones of computational geometry. The column also explores advanced topics such as polygon intersection, point set covering, range queries, and motion planning. By examining applications in computer graphics, computer vision, geographic information systems, bioinformatics, financial engineering, operations research, machine learning, big data analytics, cloud computing, and the Internet of Things, this column showcases the powerful role of computational geometry in modern technologies.
- # Computational Geometry Series Directory
+ ###This column delves into the fundamental concepts and wide-ranging applications of computational geometry, covering everything from basic geometric representations to complex algorithms and real-world use cases. From convex hulls and Voronoi diagrams to Delaunay triangulations and the closest pair problem, readers will gain a solid grasp of the cornerstones of computational geometry. The column also explores advanced topics such as polygon intersection, point set covering, range queries, and motion planning. By examining applications in computer graphics, computer vision, geographic information systems, bioinformatics, financial engineering, operations research, machine learning, big data analytics, cloud computing, and the Internet of Things, this column showcases the powerful role of computational geometry in modern technologies.
+ ## Computational Geometry Series Directory
 
-## 【Introduction to Computational Geometry】
+### 【Introduction to Computational Geometry】
 - [Definition of Computational Geometry](#): A discipline using algorithms and data structures to solve geometric problems _Preview_
 - [History of Computational Geometry](#): From hand-drawn diagrams to computer-aided design _Preview_
 - [Basic Problem Examples](#): Projection of a point onto a line segment, computing intersection points of lines _Preview_
 
-## 【Mathematical Foundations and Geometric Modeling】
+### 【Mathematical Foundations and Geometric Modeling】
 - [Vector Operations](#): Fundamentals of addition, subtraction, and dot product
 - [Matrix Operations](#): Applications of multiplication and transpose in geometric transformations
 - [Geometric Properties](#): Distance from a point to a line, length of a segment, and angle computation
 - [Geometric Modeling](#): Representing geometric elements with data structures
 - [Spatial Transformations](#): Translation, rotation, and scaling models
 
-## 【Point Set Algorithms and Convex Hulls】
+### 【Point Set Algorithms and Convex Hulls】
 - [Properties of Point Sets](#): Identifying outliers and key points
 - [Definition of Convex Hull](#): The smallest enclosing polygon of a geometric object
 - [Graham Scan](#): An efficient algorithm for convex hull construction
 - [Jarvis March](#): An alternative convex hull algorithm and its optimization
 - [High-Dimensional Convex Hulls](#): Solving convex hull problems in higher dimensions
 
-## 【Linear Programming and Polygons】
+### 【Linear Programming and Polygons】
 - [Basics of Linear Programming](#): Formulating optimization problems and objective functions
 - [Classification of Polygons](#): Convex vs. non-convex polygons
 - [Polygon Intersection Detection](#): Algorithm principles and implementation steps
 - [Polygon Filling Algorithms](#): Scanline and seed fill techniques
 
-## 【Region Query and Tree Structures】
+### 【Region Query and Tree Structures】
 - [Range Search Problems](#): Efficiently locating points in multi-dimensional space
 - [Building KD-Trees](#): Space partitioning structures for 2D and higher dimensions
 - [Applications of Quadtrees](#): Fast neighborhood search in image processing
 - [R-Trees and Octrees](#): Advanced structures for dynamic data and complex queries
 
-## 【Closest Pair and Voronoi Diagrams】
+### 【Closest Pair and Voronoi Diagrams】
 - [Divide-and-Conquer for Closest Pair](#): Time and space complexity analysis
 - [Plane Sweep Method](#): Another approach to solve the closest pair problem
 - [Properties of Voronoi Diagrams](#): Interpretation of regions and edges
 - [Constructing Voronoi Diagrams](#): Step-by-step algorithm explanation
 - [Applications of Voronoi Diagrams](#): Urban planning, wireless network design, etc.
 
-## 【Triangulation and Mesh Generation】
+### 【Triangulation and Mesh Generation】
 - [Concept of Triangulation](#): Necessity of creating triangular meshes within polygons
 - [Delaunay Principle](#): Maximizing the minimum angle in triangulation
 - [Implementing Delaunay Triangulation](#): Algorithm steps and practical code
 - [Quadrilateral Mesh Generation](#): Overview of techniques and use cases
 
-## 【Representation of Curves and Surfaces】
+### 【Representation of Curves and Surfaces】
 - [Parametric Curves](#): Basics of Bézier and B-spline curves
 - [Constructing Bézier Curves](#): Control points, degrees, and curve shapes
 - [Applications of NURBS](#): Advanced surface modeling in industrial design
 
-## 【Computational Geometry Libraries and Tools】
+### 【Computational Geometry Libraries and Tools】
 - [Features of CGAL Library](#): A powerful C++ library for solving geometric problems
 - [Introduction to Clipper Library](#): Boolean operations and polygon filling
 - [Boost.Polygon](#): Boost component for polygon handling
 - [Applications in CAD/CAM/CAE Software](#): Real-world software case analysis
 
-## 【Practical Applications: Case Studies and Projects】
+### 【Practical Applications: Case Studies and Projects】
 - [Computational Geometry in Game Development](#): Collision detection and path planning
 - [Applications in GIS](#): Geometric methods for map analysis and terrain modeling
 
-## 【Advanced Topics: In-depth Articles】
+### 【Advanced Topics: In-depth Articles】
 - [Demystifying the Basics of Computational Geometry](#): Representation and operations on points, lines, and planes (Beginner Must-Read)
 - [Convex Hulls in Computational Geometry](#): From basics to mastery (Case Study)
 - [Voronoi Diagrams in Computational Geometry](#): Principles, algorithms, and applications (In-depth Analysis)
