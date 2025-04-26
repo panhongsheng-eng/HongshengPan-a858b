@@ -61,6 +61,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+![image](https://github.com/user-attachments/assets/000535a2-9c42-44e5-ac5f-4a39fa3b4fbf)
 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
