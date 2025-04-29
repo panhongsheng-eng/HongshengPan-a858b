@@ -20,7 +20,7 @@ image:
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
-{{< youtube D2vj0WcvH5c >}}
+{{< youtube JGtqpQXfJis >}}
 
 **Youtube**:
 
