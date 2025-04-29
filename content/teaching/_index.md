@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: ✍🏻 Learning Notes ... 
 summary: My courses
 type: landing
 
