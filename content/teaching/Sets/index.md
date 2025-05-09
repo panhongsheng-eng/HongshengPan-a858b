@@ -25,4 +25,9 @@ image:
 $$
 \large   x = \theta x_1 + (1 - \theta)x_2,\quad ( \theta \in \mathbb{R})
 $$
-![img](https://fmin.xyz/docs/theory/convex%20sets/line.svg)
+![image](https://github.com/user-attachments/assets/eeb22ef6-2093-4a9f-a2ed-4e38d1acecf4)
+> [!IMPORTANT]
+>
+> #### 🚀 affine set: contains the line through any two distinct points in the set.
+>
+> #### 🚀example solution set of linear equations  {${x| Ax = b}$}
