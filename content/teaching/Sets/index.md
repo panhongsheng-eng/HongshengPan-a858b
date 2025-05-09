@@ -10,47 +10,58 @@ tags:
 image:
   caption: 'Learn about Convex Hull and its applications in Computational Geometry'
 ---
-
-![image](https://github.com/user-attachments/assets/21e6e8a6-331b-4524-afbc-905a17887e90)
-![image](https://github.com/user-attachments/assets/77a1c033-1730-4ba6-86f8-af6852c60020)
+#                                                                                                           *Convex  Set*
 
 
 
-## Video
+- ## 🎈affine and convex sets
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+- ## 🎈some import examples
 
-{{< youtube JGtqpQXfJis >}}
+- ## 🎈operations that preserve convexity
 
-**Youtube**:
+- ## 🎈generalized inequalities
 
-    {{</* youtube w7Ft2ymGmfc */>}}
+- ## 🎈separating and supporting hyperplanes
 
-**Bilibili**:
+- ## 🎈dual cones and generalized inequalities
 
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
 
-**Video file**
 
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
 
-    {{</* video src="convex_hull_algorithm.mp4" controls="yes" */>}}
 
-## Podcast
+## 📚Affine Set
 
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
+### **line through $x_1$ and $x_2$: all points**:
 
-    {{</* audio src="ambient-piano.mp3" */>}}
 
-Try it out:
+$$
+\large   x = \theta x_1 + (1 - \theta)x_2,\quad ( \theta \in \mathbb{R})
+$$
+![img](https://fmin.xyz/docs/theory/convex%20sets/line.svg)
 
-{{< audio src="ambient-piano.mp3" >}}
+> [!IMPORTANT]
+>
+> #### 🚀 affine set: contains the line through any two distinct points in the set.
+>
+> #### 🚀example solution set of linear equations  {${x| Ax = b}$}
 
-## Test students
 
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
 
-```markdown
-{{</* spoiler text="👉 Click to view the Convex Hull Algorithm Solution" */>}}
-You found me!
-{{</* /spoiler */>}}
+## 📚Convex Set
+
+### line segment between $x_1$ and $x_2$: all points
+
+$$
+\large   x = \theta x_1 + (1 - \theta)x_2,\quad with \quad 0 \leq \theta \leq 1
+$$
+
+### convex set: contains line segment between any two points in the set
+
+$$
+x_1, x_2 \in C ，0 \leq \theta \leq 1 \quad then \quad \theta x_1 + (1 - \theta) x_2 \in C
+$$
+
+### examples (one convex, two nonconvex sets)
+
+
