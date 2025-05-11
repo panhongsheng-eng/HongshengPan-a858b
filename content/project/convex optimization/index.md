@@ -9,7 +9,7 @@ tags:
   - interior point methods
   - applications in ML, control, finance
 summary: >
-  Focuses on identifying and solving convex optimization problems that arise in applications. Covers convex sets, functions, and optimization problems, fundamentals of convex analysis, least squares, linear and quadratic programming, semidefinite programming, minimax problems, dual theory, and interior point methods. Applications include signal processing, statistics, machine learning, control and mechanical engineering, and finance.
+ ✍Convex optimization has wide and profound applications in signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance. Its efficiency and guarantee of global optimality make it a core tool in modern engineering and science.
 prerequisites:
   - Good knowledge of linear algebra and probability
   - Familiar with basic Python programming
