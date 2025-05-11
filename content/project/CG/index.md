@@ -12,7 +12,7 @@ tags:
   - Orthogonal Range Searching
   - Arrangements and Duality
 summary: >
-Computational geometry is the study of algorithms for geometric objects, playing a fundamental and central role in fields like computer graphics, robotics, geographic information systems, and bioinformatics. Welcome to explore this powerful discipline!
+  Computational geometry is the study of algorithms for geometric objects, playing a fundamental and central role in fields like computer graphics, robotics, geographic information systems, and bioinformatics. Welcome to explore this powerful discipline!
 ---
  ###This column delves into the fundamental concepts and wide-ranging applications of computational geometry, covering everything from basic geometric representations to complex algorithms and real-world use cases. From convex hulls and Voronoi diagrams to Delaunay triangulations and the closest pair problem, readers will gain a solid grasp of the cornerstones of computational geometry. The column also explores advanced topics such as polygon intersection, point set covering, range queries, and motion planning. By examining applications in computer graphics, computer vision, geographic information systems, bioinformatics, financial engineering, operations research, machine learning, big data analytics, cloud computing, and the Internet of Things, this column showcases the powerful role of computational geometry in modern technologies.
  ## Computational Geometry Series Directory
