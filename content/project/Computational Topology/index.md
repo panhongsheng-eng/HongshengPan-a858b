@@ -6,9 +6,5 @@ tags:
   - Computational Topology
   - Mathematics
 summary: >
-  Computational topology is an emerging field of study at the intersection of mathematics and computer science, devoted to the study of efficient algorithms for topological problems, 
-  especially those that arise in other areas of computing. Although algorithmic techniques have been ubiquitous in topology since its inception more than a century ago, 
-  the efficiency of topological algorithms and their applicability to other computing domains are relatively recent areas of study. 
-  Results in computational topology combine classical mathematical techniques from combinatorial, geometric, and algebraic topology with more recent algorithmic tools from data structure design and computational geometry. 
-  These results have found applications in many different areas of computer science.
+  Computational geometry is the study of algorithms for geometric objects, playing a fundamental and central role in fields like computer graphics, robotics, geographic information systems, and bioinformatics. Welcome to explore this powerful discipline! geometry. 
 ---
