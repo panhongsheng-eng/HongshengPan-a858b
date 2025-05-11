@@ -1,5 +1,5 @@
 ---
-title: Computational Topology
+title: **Computational Topology**
 date: 2024-10-26
 external_link: https://www.math.colostate.edu/~adams/teaching/UCR2017/
 tags:
