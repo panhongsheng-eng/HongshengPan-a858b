@@ -1,4 +1,3 @@
-
 ---
 title: Discrete Differential Geometry
 summary: Easily understand and implement the Convex Hull algorithm in computational geometry.
