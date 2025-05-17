@@ -17,6 +17,7 @@ sections:
       filters:
         folders:
           - teaching
+      count: 100  # ✅ 添加这一行：显示最多 100 个项目
     design:
       view: article-grid
       columns: 2
