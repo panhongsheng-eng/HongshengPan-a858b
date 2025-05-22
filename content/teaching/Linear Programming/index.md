@@ -1,7 +1,7 @@
 ---
-title: Computational Topology
+title: LP
 date: 2024-10-26
-external_link: https://github.com/panhongsheng-eng/Learning_Note/blob/main/%E7%BA%BF%E6%80%A7%E8%A7%84%E5%88%92.html
+external_link: https://learning-note-gamma.vercel.app/
 tags:
   - Computational Topology
   - Mathematics
