@@ -1,8 +1,7 @@
 ---
 title: LP
 date: 2024-10-26
-external_link: https://learning-note-gamma.vercel.app/
-tags:
+external_link: https://abstract-algebra-nine.vercel.app/tags:
   - Computational Topology
   - Mathematics
 summary: >
