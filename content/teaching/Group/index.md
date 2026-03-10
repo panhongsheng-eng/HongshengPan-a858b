@@ -1,5 +1,8 @@
 ---
 title: Abstract Algebra
-summary: 
-date: 2024-10-24
+date: 2025-10-26
+external_link: 
+summary: >
+  Modern Mathematics
+---
 
